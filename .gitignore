@@ -1,0 +1,6 @@
+﻿# node / deno / 환경파일 등
+node_modules/
+dist/
+.env
+.env.*
+.DS_Store
